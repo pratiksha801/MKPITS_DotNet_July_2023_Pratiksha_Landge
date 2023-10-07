@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Salary Calculator</title>
+</head>
+<body>
+    <label for="empName">Enter employee name:</label>
+    <input type="text" id="empName" name="empName"><br><br>
+    <label for="basicSalary">Enter employee basic salary:</label>
+    <input type="number" id="basicSalary" name="basicSalary"><br><br>
+    <button onclick="calculateSalary()">Calculate Salary</button><br><br>
+    <label for="totalSalary">Total Salary:</label>
+    <input type="number" id="totalSalary" name="totalSalary" readonly>
+    <script>
+        function calculateSalary() {
+            var empName = document.getElementById("empName").value;
+            var basicSalary = document.getElementById("basicSalary").value;
+            var hra = 0.23 * basicSalary;
+            var da = 0.43 * basicSalary;
+            var totalSalary = parseFloat(hra) + parseFloat(da) + parseFloat(basicSalary);
+            document.getElementById("totalSalary").value = totalSalary;
+            alert("Total salary for " + empName + " is: " + totalSalary);
+        }
+    </script>
+</body>
+</html>

@@ -1,1 +1,0 @@
-# MKPITS_DotNet_July_2023_Pratiksha_Landge

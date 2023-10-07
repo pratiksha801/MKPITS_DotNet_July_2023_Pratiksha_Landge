@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Age Check</title>
+</head>
+<body>
+    <label for="age">Enter your age:</label>
+    <input type="number" id="age" name="age">
+    <button onclick="calculateAge()">Calculate</button>
+    <p id="result"></p>
+
+    <script>
+        function calculateAge() {
+            var age = document.getElementById("age").value;
+            if (age < 18) {
+                document.getElementById("result").innerHTML = "You are a minor.";
+            } else if (age >= 18 && age < 60) {
+                document.getElementById("result").innerHTML = "You are an adult.";
+            } else {
+                document.getElementById("result").innerHTML = "You are old.";
+            }
+        }
+    </script>
+</body>
+</html>

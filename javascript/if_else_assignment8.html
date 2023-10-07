@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Employee Bonus Calculator</title>
+</head>
+<body>
+    <h1>Employee Bonus Calculator</h1>
+    <form>
+        <label for="empName">Employee Name:</label>
+        <input type="text" id="empName" name="empName"><br><br>
+        <label for="basicSal">Basic Salary:</label>
+        <input type="number" id="basicSal" name="basicSal"><br><br>
+        <label for="designation">Designation:</label>
+        <select id="designation" name="designation">
+            <option value="manager">Manager</option>
+            <option value="clerk">Clerk</option>
+            <option value="peon">Peon</option>
+        </select><br><br>
+        <input type="button" value="Calculate Bonus" onclick="calculateBonus()">
+    </form>
+    <br>
+    <div id="result"></div>
+
+    <script>
+        function calculateBonus() {
+            var empName = document.getElementById("empName").value;
+            var basicSal = document.getElementById("basicSal").value;
+            var designation = document.getElementById("designation").value;
+            var bonus = 0;
+            if (designation == "manager") {
+                bonus = 5000;
+            } else if (designation == "clerk") {
+                bonus = 2000;
+            } else if (designation == "peon") {
+                bonus = 1000;
+            }
+            var totalSal = parseInt(basicSal) + parseInt(bonus);
+            var resultDiv = document.getElementById("result");
+            resultDiv.innerHTML = "<h2>Employee Name: " + empName + "</h2>" +
+                                 "<p>Total Salary: " + totalSal + "</p>" +
+                                 "<p>Bonus: " + bonus + "</p>";
+        }
+    </script>
+</body>
+</html>

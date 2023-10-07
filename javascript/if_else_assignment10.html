@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Calculator</title>
+</head>
+<body>
+    <h1>Product Calculator</h1>
+    <form>
+        <label for="productName">Product Name:</label>
+        <input type="text" id="productName" name="productName"><br><br>
+        <label for="productRate">Product Rate:</label>
+        <input type="number" id="productRate" name="productRate"><br><br>
+        <label for="quantity">Quantity:</label>
+        <input type="number" id="quantity" name="quantity"><br><br>
+        <button type="button" onclick="calculateTotal()">Calculate Total</button><br><br>
+        <label for="totalAmount">Total Amount:</label>
+        <input type="number" id="totalAmount" name="totalAmount" readonly><br><br>
+    </form>
+
+    <script>
+        function calculateTotal() {
+            var productName = document.getElementById("productName").value;
+            var productRate = document.getElementById("productRate").value;
+            var quantity = document.getElementById("quantity").value;
+            var totalAmount;
+            if (productName == "" || productRate == "" || quantity == "") {
+                alert("Please fill all the fields.");
+            } else {
+                totalAmount = productRate * quantity;
+                document.getElementById("totalAmount").value = totalAmount;
+            }
+        }
+    </script>
+</body>
+</html>

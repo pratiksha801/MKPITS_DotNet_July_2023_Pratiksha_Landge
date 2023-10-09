@@ -1,0 +1,27 @@
+<script>  
+function cal() {
+			var s1=parseInt(document.getElementById("t1").value);
+			var s2=parseInt(document.getElementById("t2").value);
+			var s3=parseInt(document.getElementById("t3").value);
+			var total=s1+s2+s3;
+			document.getElementById("tot").innerText=total;
+			var percentage=parseFloat(total / 300 ) * 100;
+				document.getElementById("per").innerText=percentage;
+			if(percentage >= 75 )
+			{
+				document.getElementById("gr").innerText= "distinction ";
+			}
+			else if(percentage >= 60 && percentage <75 )
+			{
+				document.getElementById("gr").innerText= "first division ";
+			}
+			else if(percentage >= 40 && percentage <60 )
+			{
+				document.getElementById("gr").innerText= "second division ";
+			}
+			else
+			{
+			document.getElementById("gr").innerText= "failed ";
+			}
+}    
+    </script>  

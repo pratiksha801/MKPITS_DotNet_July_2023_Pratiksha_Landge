@@ -1,0 +1,185 @@
+let counter = 120; // counter is a number
+console.log(typeof(counter)); // "number"
+
+counter = false;   // counter is now a boolean
+console.log(typeof(counter)); // "boolean"
+
+counter = "Hi";   // counter is now a string
+console.log(typeof(counter)); // "string"
+Code language: JavaScript (javascript)
+
+Output:
+
+"number"
+"boolean"
+"string"
+example
+<script type="text/javascript" >
+let counter=20;
+alert("counter = " + counter);
+alert(typeof(counter));
+counter=true;
+alert("counter = " + counter);
+alert(typeof(counter));
+counter="mkpits";
+alert("counter = " + counter);
+alert(typeof(counter));
+
+
+</script>
+
+<body>
+<h1>mkpits solution</h1>
+
+
+
+</body>
+
+
+Code language: JSON / JSON with Comments (json)
+
+The undefined type
+
+The undefined type is a primitive type that has one value undefined.
+
+By default, when a variable is declared but not initialized, it is assigned the value undefined.
+
+Consider the following example:
+<script type="text/javascript" >
+let counter;
+alert("counter = " + counter);
+alert(typeof(counter));
+
+
+
+</script>
+
+<body>
+<h1>mkpits solution</h1>
+
+
+
+</body>
+
+
+
+In this example, the counter is a variable. Since counter hasn’t been initialized, it is assigned the value undefined. The type of counter is also undefined.
+
+It’s important to note that the  typeof operator also returns undefined when you call it on a variable that hasn’t been declared:
+
+console.log(typeof undeclaredVar); // undefined
+Code language: JavaScript (javascript)
+
+The null type
+
+The null type is the second primitive data type that also has only one value: null. 
+
+Javascript defines that null is an empty object pointer. See the following example:
+<script type="text/javascript" >
+let counter=null;
+alert("counter = " + counter);
+alert(typeof(counter));
+
+
+
+</script>
+
+<body>
+<h1>mkpits solution</h1>
+
+
+
+</body>
+
+
+
+It is a good practice to assign a variable that later holds an object to null so that you can check whether the object is null or not by using the if statement as follows:
+
+<script type="text/javascript" >
+let counter=null;
+if(counter != null)
+alert("counter = " + counter);
+else
+alert("counter is null");
+
+
+
+</script>
+
+<body>
+<h1>mkpits solution</h1>
+
+
+
+</body>
+
+
+JavaScript defines that null is equal to undefined as shown in the following statement.
+
+console.log(null == undefined); // true
+Code language: JavaScript (javascript)
+
+The number type
+
+JavaScript uses the IEEE-754 format to represent both integer and floating-point numbers.
+Integer numbers
+
+The following statement declares a variable that holds an integer.
+
+<script type="text/javascript" >
+let num = 100;
+alert("num = " + num);
+
+
+
+
+</script>
+
+<body>
+<h1>mkpits solution</h1>
+
+
+
+</body>
+
+
+If you want to represent the octal (base 8) literals, you put the first digit as zero (0) followed by octal digit numbers (0 to 7) as follows:
+
+let oct = 060; // octal for 48
+Code language: JavaScript (javascript)
+
+If the literal of an octal number is out of the range, JavaScript treats it as a decimal as shown in the following example.
+
+let d = 090; // intepreted as 90
+Code language: JavaScript (javascript)
+
+To avoid confusion, ES6 allows you to specify an octal literal by using the prefix 0o followed by a sequence of octal digits from 0 through 7:
+
+let v = 0o45;
+console.log(v); // 37
+Code language: JavaScript (javascript)
+
+To create hexadecimal (base 16) literals, you use 0x (in lowercase) as the first two characters followed by any number of hexadecimal digits (0 to 9, and A to F).
+
+let h = 0xf; // same as 0xF hexadecimal for 15
+Code language: JavaScript (javascript)
+
+Floating-point numbers
+
+To represent a floating-point number, you include a decimal point followed by at least one number. For example:
+
+<script type="text/javascript" >
+let num = 100.2;
+alert("num = " + num);
+
+
+
+
+</script>
+
+<body>
+<h1>mkpits solution</h1>
+
+
+
+</body>

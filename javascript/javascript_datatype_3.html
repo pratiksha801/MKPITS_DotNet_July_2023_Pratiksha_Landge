@@ -1,0 +1,126 @@
+<script type="text/javascript" >
+let num = 10;
+let num1='a';
+let res;
+res=num1 / num;
+
+alert("res = " + res);
+
+
+
+
+</script>
+
+<body>
+<h1>mkpits solution</h1>
+
+
+
+</body>
+
+The NaN has two special characteristics:
+
+    Any operation with NaN returns NaN.
+    The NaN does not equal any value, including itself.
+
+Here are some examples:
+
+console.log(NaN/2); // NaN
+console.log(NaN == NaN); // false
+Code language: JavaScript (javascript)
+
+The string type
+
+In JavaScript, a string is a sequence of zero or more characters. A literal string begins and ends with either a single quote(‘) or a double quote (“).
+
+A string that starts with a double quote must end with a double quote and a string that begins with a single quote must end with a single quote.
+
+Here are some examples:
+
+let greeting = 'Hi';
+let s = "It's a valid string";
+let str = 'I\'m also a string'; // use \ to escape the single quote (')
+Code language: JavaScript (javascript)
+<script type="text/javascript" >
+let greeting = 'Hi';
+let s = "It's a valid string";
+let str = 'I\'m also a string'; // use \ to escape the single quote (')
+
+alert (greeting);
+alert (s);
+alert (str);
+
+
+
+
+
+</script>
+
+<body>
+<h1>mkpits solution</h1>
+
+
+
+</body>
+
+
+
+JavaScript strings are immutable. It means that you cannot modify a string once it is created.
+
+However, you can create a new string based on an operation on the original string, like this:
+
+let str = 'JavaScript';
+str = str + ' String';
+Code language: JavaScript (javascript)
+
+In this example:
+
+    First, declare the str variable and initialize it to a string of 'JavaScript'.
+    Second, use the + operator to combine 'JavaScript' with ' String' to make its value as 'Javascript String'.
+
+Behind the scene, the JavaScript engine creates a new string that holds the new string 'JavaScript String' and destroys two other original strings 'JavaScript' and ' String'.
+The boolean type
+
+The boolean type has two values: true and false, in lowercase.
+
+The following example declares two variables that hold boolean values.
+
+<script type="text/javascript" >
+let inProgress = true;
+let completed = false;
+alert(inProgress);
+alert(completed);
+
+
+
+
+</script>
+
+<body>
+<h1>mkpits solution</h1>
+
+
+
+</body>
+
+Code language: JavaScript (javascript)
+
+JavaScript allows values of other types to be converted into boolean values of true or false.
+
+To convert a value of another data type into a boolean value, you use the Boolean function. The following table shows the conversion rules:
+Type		true					false
+string		non-empty string			empty string
+number	non-zero number and Infinity		0, NaN
+object		non-null 				object	null
+undefined	 	undefined
+
+See the following demonstration:
+<script type="text/javascript" >
+let name="amit";
+alert(Boolean(name));
+
+let name1='';
+alert(Boolean(name1));
+
+
+</script>

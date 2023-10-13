@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\positive_or_negative\positive_or_negative\obj\Debug\positive_or_negative.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\positive_or_negative\positive_or_negative\obj\Debug\positive_or_negative.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\positive_or_negative\positive_or_negative\bin\Debug\positive_or_negative.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\positive_or_negative\positive_or_negative\bin\Debug\positive_or_negative.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\positive_or_negative\positive_or_negative\bin\Debug\positive_or_negative.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\positive_or_negative\positive_or_negative\obj\Debug\positive_or_negative.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\positive_or_negative\positive_or_negative\obj\Debug\positive_or_negative.pdb

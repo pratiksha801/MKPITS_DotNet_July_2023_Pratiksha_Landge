@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\quadrant_root\quadrant_root\obj\Debug\quadrant_root.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\quadrant_root\quadrant_root\obj\Debug\quadrant_root.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\quadrant_root\quadrant_root\bin\Debug\quadrant_root.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\quadrant_root\quadrant_root\bin\Debug\quadrant_root.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\quadrant_root\quadrant_root\bin\Debug\quadrant_root.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\quadrant_root\quadrant_root\obj\Debug\quadrant_root.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\quadrant_root\quadrant_root\obj\Debug\quadrant_root.pdb

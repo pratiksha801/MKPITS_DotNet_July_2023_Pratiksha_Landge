@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\person_height\person_height\obj\Debug\person_height.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\person_height\person_height\obj\Debug\person_height.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\person_height\person_height\bin\Debug\person_height.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\person_height\person_height\bin\Debug\person_height.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\person_height\person_height\bin\Debug\person_height.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\person_height\person_height\obj\Debug\person_height.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\person_height\person_height\obj\Debug\person_height.pdb

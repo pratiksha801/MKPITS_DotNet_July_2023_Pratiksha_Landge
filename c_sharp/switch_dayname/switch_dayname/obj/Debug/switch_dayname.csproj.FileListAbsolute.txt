@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\switch_dayname\switch_dayname\bin\Debug\switch_dayname.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\switch_dayname\switch_dayname\bin\Debug\switch_dayname.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\switch_dayname\switch_dayname\bin\Debug\switch_dayname.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\switch_dayname\switch_dayname\obj\Debug\switch_dayname.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\switch_dayname\switch_dayname\obj\Debug\switch_dayname.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\switch_dayname\switch_dayname\obj\Debug\switch_dayname.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\switch_dayname\switch_dayname\obj\Debug\switch_dayname.pdb

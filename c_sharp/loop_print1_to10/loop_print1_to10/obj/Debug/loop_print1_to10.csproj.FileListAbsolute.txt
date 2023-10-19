@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_print1_to10\loop_print1_to10\bin\Debug\loop_print1_to10.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_print1_to10\loop_print1_to10\bin\Debug\loop_print1_to10.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_print1_to10\loop_print1_to10\bin\Debug\loop_print1_to10.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_print1_to10\loop_print1_to10\obj\Debug\loop_print1_to10.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_print1_to10\loop_print1_to10\obj\Debug\loop_print1_to10.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_print1_to10\loop_print1_to10\obj\Debug\loop_print1_to10.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_print1_to10\loop_print1_to10\obj\Debug\loop_print1_to10.pdb

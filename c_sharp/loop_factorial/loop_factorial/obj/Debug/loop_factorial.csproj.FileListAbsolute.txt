@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_factorial\loop_factorial\obj\Debug\loop_factorial.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_factorial\loop_factorial\obj\Debug\loop_factorial.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_factorial\loop_factorial\bin\Debug\loop_factorial.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_factorial\loop_factorial\bin\Debug\loop_factorial.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_factorial\loop_factorial\bin\Debug\loop_factorial.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_factorial\loop_factorial\obj\Debug\loop_factorial.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_factorial\loop_factorial\obj\Debug\loop_factorial.pdb

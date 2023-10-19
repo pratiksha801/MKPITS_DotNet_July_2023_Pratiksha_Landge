@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\sumof5no\sumof5no\obj\Debug\sumof5no.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\sumof5no\sumof5no\obj\Debug\sumof5no.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\sumof5no\sumof5no\bin\Debug\sumof5no.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\sumof5no\sumof5no\bin\Debug\sumof5no.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\sumof5no\sumof5no\bin\Debug\sumof5no.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\sumof5no\sumof5no\obj\Debug\sumof5no.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\sumof5no\sumof5no\obj\Debug\sumof5no.pdb

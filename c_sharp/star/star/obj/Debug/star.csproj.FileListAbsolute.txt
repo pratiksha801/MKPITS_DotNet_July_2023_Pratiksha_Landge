@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\star\star\bin\Debug\star.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\star\star\bin\Debug\star.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\star\star\bin\Debug\star.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\star\star\obj\Debug\star.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\star\star\obj\Debug\star.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\star\star\obj\Debug\star.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\star\star\obj\Debug\star.pdb

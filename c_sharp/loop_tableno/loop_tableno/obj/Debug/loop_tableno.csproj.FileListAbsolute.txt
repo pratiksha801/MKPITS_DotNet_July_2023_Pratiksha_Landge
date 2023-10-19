@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_tableno\loop_tableno\obj\Debug\loop_tableno.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_tableno\loop_tableno\obj\Debug\loop_tableno.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_tableno\loop_tableno\bin\Debug\loop_tableno.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_tableno\loop_tableno\bin\Debug\loop_tableno.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_tableno\loop_tableno\bin\Debug\loop_tableno.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_tableno\loop_tableno\obj\Debug\loop_tableno.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\loop_tableno\loop_tableno\obj\Debug\loop_tableno.pdb

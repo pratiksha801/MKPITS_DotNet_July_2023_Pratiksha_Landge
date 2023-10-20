@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\even_odd\even_odd\bin\Debug\even_odd.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\even_odd\even_odd\bin\Debug\even_odd.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\even_odd\even_odd\bin\Debug\even_odd.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\even_odd\even_odd\obj\Debug\even_odd.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\even_odd\even_odd\obj\Debug\even_odd.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\even_odd\even_odd\obj\Debug\even_odd.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\even_odd\even_odd\obj\Debug\even_odd.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\even_odd\even_odd\obj\Debug\even_odd.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\even_odd\even_odd\obj\Debug\even_odd.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\even_odd\even_odd\obj\Debug\even_odd.pdb

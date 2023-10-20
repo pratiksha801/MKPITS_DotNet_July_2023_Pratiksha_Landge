@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\student_data\student_data\bin\Debug\student_data.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\student_data\student_data\bin\Debug\student_data.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\student_data\student_data\bin\Debug\student_data.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\student_data\student_data\obj\Debug\student_data.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\student_data\student_data\obj\Debug\student_data.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\student_data\student_data\obj\Debug\student_data.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\student_data\student_data\obj\Debug\student_data.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\student_data\student_data\obj\Debug\student_data.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\student_data\student_data\obj\Debug\student_data.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\student_data\student_data\obj\Debug\student_data.pdb

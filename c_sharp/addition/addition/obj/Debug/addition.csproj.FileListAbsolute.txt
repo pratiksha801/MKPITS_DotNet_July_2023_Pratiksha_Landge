@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition\addition\bin\Debug\addition.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition\addition\bin\Debug\addition.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition\addition\bin\Debug\addition.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition\addition\obj\Debug\addition.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition\addition\obj\Debug\addition.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition\addition\obj\Debug\addition.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition\addition\obj\Debug\addition.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition\addition\obj\Debug\addition.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition\addition\obj\Debug\addition.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition\addition\obj\Debug\addition.pdb

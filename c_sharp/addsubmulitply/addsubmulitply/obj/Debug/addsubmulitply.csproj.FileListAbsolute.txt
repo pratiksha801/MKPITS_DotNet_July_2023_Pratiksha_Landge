@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\addsubmulitply\addsubmulitply\bin\Debug\addsubmulitply.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\addsubmulitply\addsubmulitply\bin\Debug\addsubmulitply.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\addsubmulitply\addsubmulitply\bin\Debug\addsubmulitply.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\addsubmulitply\addsubmulitply\obj\Debug\addsubmulitply.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\addsubmulitply\addsubmulitply\obj\Debug\addsubmulitply.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\addsubmulitply\addsubmulitply\obj\Debug\addsubmulitply.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\addsubmulitply\addsubmulitply\obj\Debug\addsubmulitply.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\addsubmulitply\addsubmulitply\obj\Debug\addsubmulitply.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\addsubmulitply\addsubmulitply\obj\Debug\addsubmulitply.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\addsubmulitply\addsubmulitply\obj\Debug\addsubmulitply.pdb

@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\square\square\bin\Debug\square.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\square\square\bin\Debug\square.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\square\square\bin\Debug\square.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\square\square\obj\Debug\square.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\square\square\obj\Debug\square.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\square\square\obj\Debug\square.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\square\square\obj\Debug\square.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\square\square\obj\Debug\square.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\square\square\obj\Debug\square.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\square\square\obj\Debug\square.pdb

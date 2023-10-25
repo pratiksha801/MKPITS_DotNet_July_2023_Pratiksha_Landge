@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\simple_method\simple_method\bin\Debug\simple_method.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\simple_method\simple_method\bin\Debug\simple_method.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\simple_method\simple_method\bin\Debug\simple_method.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\simple_method\simple_method\obj\Debug\simple_method.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\simple_method\simple_method\obj\Debug\simple_method.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\simple_method\simple_method\obj\Debug\simple_method.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\simple_method\simple_method\obj\Debug\simple_method.pdb

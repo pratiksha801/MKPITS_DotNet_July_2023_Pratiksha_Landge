@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\ex_break\ex_break\bin\Debug\ex_break.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\ex_break\ex_break\bin\Debug\ex_break.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ex_break\ex_break\bin\Debug\ex_break.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\ex_break\ex_break\obj\Debug\ex_break.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ex_break\ex_break\obj\Debug\ex_break.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ex_break\ex_break\obj\Debug\ex_break.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ex_break\ex_break\obj\Debug\ex_break.pdb

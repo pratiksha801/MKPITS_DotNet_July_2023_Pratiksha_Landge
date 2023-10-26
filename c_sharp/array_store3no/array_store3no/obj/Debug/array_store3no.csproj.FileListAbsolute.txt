@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_store3no\array_store3no\bin\Debug\array_store3no.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_store3no\array_store3no\bin\Debug\array_store3no.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_store3no\array_store3no\bin\Debug\array_store3no.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_store3no\array_store3no\obj\Debug\array_store3no.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_store3no\array_store3no\obj\Debug\array_store3no.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_store3no\array_store3no\obj\Debug\array_store3no.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_store3no\array_store3no\obj\Debug\array_store3no.pdb

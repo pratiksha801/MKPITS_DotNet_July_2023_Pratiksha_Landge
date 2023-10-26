@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\3_character_in_array\3_character_in_array\obj\Debug\3_character_in_array.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3_character_in_array\3_character_in_array\obj\Debug\3_character_in_array.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3_character_in_array\3_character_in_array\bin\Debug\3_character_in_array.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\3_character_in_array\3_character_in_array\bin\Debug\3_character_in_array.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\3_character_in_array\3_character_in_array\bin\Debug\3_character_in_array.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\3_character_in_array\3_character_in_array\obj\Debug\3_character_in_array.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\3_character_in_array\3_character_in_array\obj\Debug\3_character_in_array.pdb

@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\2rows_and_2cols\2rows_and_2cols\bin\Debug\2rows_and_2cols.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\2rows_and_2cols\2rows_and_2cols\bin\Debug\2rows_and_2cols.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\2rows_and_2cols\2rows_and_2cols\bin\Debug\2rows_and_2cols.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\2rows_and_2cols\2rows_and_2cols\obj\Debug\2rows_and_2cols.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\2rows_and_2cols\2rows_and_2cols\obj\Debug\2rows_and_2cols.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\2rows_and_2cols\2rows_and_2cols\obj\Debug\2rows_and_2cols.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\2rows_and_2cols\2rows_and_2cols\obj\Debug\2rows_and_2cols.pdb

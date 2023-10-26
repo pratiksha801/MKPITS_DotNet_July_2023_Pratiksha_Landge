@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\out_parameters\out_parameters\bin\Debug\out_parameters.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\out_parameters\out_parameters\bin\Debug\out_parameters.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\out_parameters\out_parameters\bin\Debug\out_parameters.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\out_parameters\out_parameters\obj\Debug\out_parameters.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\out_parameters\out_parameters\obj\Debug\out_parameters.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\out_parameters\out_parameters\obj\Debug\out_parameters.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\out_parameters\out_parameters\obj\Debug\out_parameters.pdb

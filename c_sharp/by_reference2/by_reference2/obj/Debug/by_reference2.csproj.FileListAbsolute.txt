@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\by_reference2\by_reference2\bin\Debug\by_reference2.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\by_reference2\by_reference2\bin\Debug\by_reference2.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\by_reference2\by_reference2\bin\Debug\by_reference2.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\by_reference2\by_reference2\obj\Debug\by_reference2.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\by_reference2\by_reference2\obj\Debug\by_reference2.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\by_reference2\by_reference2\obj\Debug\by_reference2.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\by_reference2\by_reference2\obj\Debug\by_reference2.pdb

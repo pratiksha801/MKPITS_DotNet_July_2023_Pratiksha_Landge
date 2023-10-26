@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\local_veriable\local_veriable\obj\Debug\local_veriable.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\local_veriable\local_veriable\obj\Debug\local_veriable.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\local_veriable\local_veriable\bin\Debug\local_veriable.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\local_veriable\local_veriable\bin\Debug\local_veriable.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\local_veriable\local_veriable\bin\Debug\local_veriable.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\local_veriable\local_veriable\obj\Debug\local_veriable.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\local_veriable\local_veriable\obj\Debug\local_veriable.pdb

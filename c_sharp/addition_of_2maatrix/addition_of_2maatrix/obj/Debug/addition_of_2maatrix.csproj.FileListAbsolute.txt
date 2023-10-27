@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition_of_2maatrix\addition_of_2maatrix\bin\Debug\addition_of_2maatrix.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition_of_2maatrix\addition_of_2maatrix\bin\Debug\addition_of_2maatrix.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition_of_2maatrix\addition_of_2maatrix\bin\Debug\addition_of_2maatrix.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition_of_2maatrix\addition_of_2maatrix\obj\Debug\addition_of_2maatrix.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition_of_2maatrix\addition_of_2maatrix\obj\Debug\addition_of_2maatrix.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition_of_2maatrix\addition_of_2maatrix\obj\Debug\addition_of_2maatrix.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\addition_of_2maatrix\addition_of_2maatrix\obj\Debug\addition_of_2maatrix.pdb

@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\3number_search\3number_search\bin\Debug\3number_search.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\3number_search\3number_search\bin\Debug\3number_search.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\3number_search\3number_search\bin\Debug\3number_search.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\3number_search\3number_search\obj\Debug\3number_search.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3number_search\3number_search\obj\Debug\_3number_search.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\3number_search\3number_search\obj\Debug\_3number_search.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\3number_search\3number_search\obj\Debug\3number_search.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3number_search\3number_search\obj\Debug\3number_search.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3number_search\3number_search\obj\Debug\3number_search.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\3number_search\3number_search\obj\Debug\3number_search.pdb

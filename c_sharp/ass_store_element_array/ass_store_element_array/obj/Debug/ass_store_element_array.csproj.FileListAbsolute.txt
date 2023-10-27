@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_store_element_array\ass_store_element_array\obj\Debug\ass_store_element_array.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_store_element_array\ass_store_element_array\obj\Debug\ass_store_element_array.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_store_element_array\ass_store_element_array\bin\Debug\ass_store_element_array.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_store_element_array\ass_store_element_array\bin\Debug\ass_store_element_array.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_store_element_array\ass_store_element_array\bin\Debug\ass_store_element_array.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_store_element_array\ass_store_element_array\obj\Debug\ass_store_element_array.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_store_element_array\ass_store_element_array\obj\Debug\ass_store_element_array.pdb

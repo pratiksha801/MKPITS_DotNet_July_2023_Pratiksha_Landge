@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_an_array\3subject_an_array\obj\Debug\3subject_an_array.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_an_array\3subject_an_array\obj\Debug\_3subject_an_array.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_an_array\3subject_an_array\obj\Debug\_3subject_an_array.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_an_array\3subject_an_array\obj\Debug\3subject_an_array.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_an_array\3subject_an_array\obj\Debug\3subject_an_array.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_an_array\3subject_an_array\bin\Debug\3subject_an_array.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_an_array\3subject_an_array\bin\Debug\3subject_an_array.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_an_array\3subject_an_array\bin\Debug\3subject_an_array.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_an_array\3subject_an_array\obj\Debug\3subject_an_array.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_an_array\3subject_an_array\obj\Debug\3subject_an_array.pdb

@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\foreach_loop\foreach_loop\bin\Debug\foreach_loop.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\foreach_loop\foreach_loop\bin\Debug\foreach_loop.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\foreach_loop\foreach_loop\bin\Debug\foreach_loop.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\foreach_loop\foreach_loop\obj\Debug\foreach_loop.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\foreach_loop\foreach_loop\obj\Debug\foreach_loop.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\foreach_loop\foreach_loop\obj\Debug\foreach_loop.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\foreach_loop\foreach_loop\obj\Debug\foreach_loop.pdb

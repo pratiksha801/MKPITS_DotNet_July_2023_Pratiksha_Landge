@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_reverse_order\array_reverse_order\bin\Debug\array_reverse_order.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_reverse_order\array_reverse_order\bin\Debug\array_reverse_order.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_reverse_order\array_reverse_order\bin\Debug\array_reverse_order.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_reverse_order\array_reverse_order\obj\Debug\array_reverse_order.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_reverse_order\array_reverse_order\obj\Debug\array_reverse_order.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_reverse_order\array_reverse_order\obj\Debug\array_reverse_order.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\array_reverse_order\array_reverse_order\obj\Debug\array_reverse_order.pdb

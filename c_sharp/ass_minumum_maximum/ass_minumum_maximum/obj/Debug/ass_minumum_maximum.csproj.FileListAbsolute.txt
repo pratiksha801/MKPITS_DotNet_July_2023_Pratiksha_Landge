@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_minumum_maximum\ass_minumum_maximum\bin\Debug\ass_minumum_maximum.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_minumum_maximum\ass_minumum_maximum\bin\Debug\ass_minumum_maximum.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_minumum_maximum\ass_minumum_maximum\bin\Debug\ass_minumum_maximum.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_minumum_maximum\ass_minumum_maximum\obj\Debug\ass_minumum_maximum.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_minumum_maximum\ass_minumum_maximum\obj\Debug\ass_minumum_maximum.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_minumum_maximum\ass_minumum_maximum\obj\Debug\ass_minumum_maximum.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_minumum_maximum\ass_minumum_maximum\obj\Debug\ass_minumum_maximum.pdb

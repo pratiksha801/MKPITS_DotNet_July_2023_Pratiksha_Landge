@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\index_of_method\index_of_method\obj\Debug\index_of_method.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\index_of_method\index_of_method\obj\Debug\index_of_method.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\index_of_method\index_of_method\bin\Debug\index_of_method.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\index_of_method\index_of_method\bin\Debug\index_of_method.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\index_of_method\index_of_method\bin\Debug\index_of_method.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\index_of_method\index_of_method\obj\Debug\index_of_method.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\index_of_method\index_of_method\obj\Debug\index_of_method.pdb

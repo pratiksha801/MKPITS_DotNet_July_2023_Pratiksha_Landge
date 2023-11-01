@@ -1,0 +1,5 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\attributes_method\attributes_method\obj\Debug\attributes_method.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\attributes_method\attributes_method\obj\Debug\attributes_method.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\attributes_method\attributes_method\obj\Debug\attributes_method.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\attributes_method\attributes_method\obj\Debug\attributes_method.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\attributes_method\attributes_method\obj\Debug\attributes_method.csproj.CoreCompileInputs.cache

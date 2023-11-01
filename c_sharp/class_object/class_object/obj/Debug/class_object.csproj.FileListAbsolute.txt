@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\class_object\class_object\bin\Debug\class_object.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\class_object\class_object\bin\Debug\class_object.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\class_object\class_object\bin\Debug\class_object.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\class_object\class_object\obj\Debug\class_object.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\class_object\class_object\obj\Debug\class_object.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\class_object\class_object\obj\Debug\class_object.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\class_object\class_object\obj\Debug\class_object.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\class_object\class_object\obj\Debug\class_object.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\class_object\class_object\obj\Debug\class_object.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\class_object\class_object\obj\Debug\class_object.pdb

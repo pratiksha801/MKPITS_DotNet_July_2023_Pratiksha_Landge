@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\library_book\library_book\obj\Debug\library_book.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\library_book\library_book\obj\Debug\library_book.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\library_book\library_book\bin\Debug\library_book.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\library_book\library_book\bin\Debug\library_book.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\library_book\library_book\bin\Debug\library_book.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\library_book\library_book\obj\Debug\library_book.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\library_book\library_book\obj\Debug\library_book.pdb

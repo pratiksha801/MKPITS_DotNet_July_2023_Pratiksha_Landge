@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\employee _class\employee _class\bin\Debug\employee _class.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\employee _class\employee _class\bin\Debug\employee _class.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\employee _class\employee _class\bin\Debug\employee _class.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\employee _class\employee _class\obj\Debug\employee _class.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\employee _class\employee _class\obj\Debug\employee__class.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\employee _class\employee _class\obj\Debug\employee__class.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\employee _class\employee _class\obj\Debug\employee _class.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\employee _class\employee _class\obj\Debug\employee _class.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\employee _class\employee _class\obj\Debug\employee _class.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\employee _class\employee _class\obj\Debug\employee _class.pdb

@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_ass2class_employee\constructor_ass2class_employee\bin\Debug\constructor_ass2class_employee.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_ass2class_employee\constructor_ass2class_employee\bin\Debug\constructor_ass2class_employee.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_ass2class_employee\constructor_ass2class_employee\bin\Debug\constructor_ass2class_employee.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_ass2class_employee\constructor_ass2class_employee\obj\Debug\constructor_ass2class_employee.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_ass2class_employee\constructor_ass2class_employee\obj\Debug\constructor_ass2class_employee.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_ass2class_employee\constructor_ass2class_employee\obj\Debug\constructor_ass2class_employee.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_ass2class_employee\constructor_ass2class_employee\obj\Debug\constructor_ass2class_employee.pdb

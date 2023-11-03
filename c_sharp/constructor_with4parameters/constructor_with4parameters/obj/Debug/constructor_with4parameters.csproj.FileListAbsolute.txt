@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_with4parameters\constructor_with4parameters\bin\Debug\constructor_with4parameters.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_with4parameters\constructor_with4parameters\bin\Debug\constructor_with4parameters.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_with4parameters\constructor_with4parameters\bin\Debug\constructor_with4parameters.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_with4parameters\constructor_with4parameters\obj\Debug\constructor_with4parameters.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_with4parameters\constructor_with4parameters\obj\Debug\constructor_with4parameters.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_with4parameters\constructor_with4parameters\obj\Debug\constructor_with4parameters.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\constructor_with4parameters\constructor_with4parameters\obj\Debug\constructor_with4parameters.pdb

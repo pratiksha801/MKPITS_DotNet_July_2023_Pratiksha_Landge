@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\Constructor_class\Constructor_class\bin\Debug\Constructor_class.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\Constructor_class\Constructor_class\bin\Debug\Constructor_class.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Constructor_class\Constructor_class\bin\Debug\Constructor_class.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\Constructor_class\Constructor_class\obj\Debug\Constructor_class.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Constructor_class\Constructor_class\obj\Debug\Constructor_class.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Constructor_class\Constructor_class\obj\Debug\Constructor_class.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Constructor_class\Constructor_class\obj\Debug\Constructor_class.pdb

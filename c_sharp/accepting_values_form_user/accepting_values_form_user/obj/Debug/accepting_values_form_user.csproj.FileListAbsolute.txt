@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\accepting_values_form_user\accepting_values_form_user\bin\Debug\accepting_values_form_user.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\accepting_values_form_user\accepting_values_form_user\bin\Debug\accepting_values_form_user.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\accepting_values_form_user\accepting_values_form_user\bin\Debug\accepting_values_form_user.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\accepting_values_form_user\accepting_values_form_user\obj\Debug\accepting_values_form_user.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\accepting_values_form_user\accepting_values_form_user\obj\Debug\accepting_values_form_user.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\accepting_values_form_user\accepting_values_form_user\obj\Debug\accepting_values_form_user.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\accepting_values_form_user\accepting_values_form_user\obj\Debug\accepting_values_form_user.pdb

@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ConsoleApp26\ConsoleApp26\bin\Debug\ConsoleApp26.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ConsoleApp26\ConsoleApp26\obj\Debug\ConsoleApp26.pdb

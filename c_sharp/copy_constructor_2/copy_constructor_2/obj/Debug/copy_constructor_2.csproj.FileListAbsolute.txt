@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\copy_constructor_2\copy_constructor_2\bin\Debug\copy_constructor_2.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\copy_constructor_2\copy_constructor_2\bin\Debug\copy_constructor_2.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\copy_constructor_2\copy_constructor_2\bin\Debug\copy_constructor_2.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\copy_constructor_2\copy_constructor_2\obj\Debug\copy_constructor_2.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\copy_constructor_2\copy_constructor_2\obj\Debug\copy_constructor_2.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\copy_constructor_2\copy_constructor_2\obj\Debug\copy_constructor_2.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\copy_constructor_2\copy_constructor_2\obj\Debug\copy_constructor_2.pdb

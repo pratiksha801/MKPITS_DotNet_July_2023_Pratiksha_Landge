@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\static_constructor_ex2\static_constructor_ex2\bin\Debug\static_constructor_ex2.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\static_constructor_ex2\static_constructor_ex2\bin\Debug\static_constructor_ex2.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\static_constructor_ex2\static_constructor_ex2\bin\Debug\static_constructor_ex2.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\static_constructor_ex2\static_constructor_ex2\obj\Debug\static_constructor_ex2.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\static_constructor_ex2\static_constructor_ex2\obj\Debug\static_constructor_ex2.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\static_constructor_ex2\static_constructor_ex2\obj\Debug\static_constructor_ex2.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\static_constructor_ex2\static_constructor_ex2\obj\Debug\static_constructor_ex2.pdb

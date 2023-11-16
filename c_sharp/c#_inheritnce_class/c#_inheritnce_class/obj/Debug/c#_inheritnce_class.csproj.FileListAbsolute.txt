@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\c#_inheritnce_class\c#_inheritnce_class\bin\Debug\c#_inheritnce_class.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\c#_inheritnce_class\c#_inheritnce_class\bin\Debug\c#_inheritnce_class.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\c#_inheritnce_class\c#_inheritnce_class\bin\Debug\c#_inheritnce_class.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\c#_inheritnce_class\c#_inheritnce_class\obj\Debug\c#_inheritnce_class.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\c#_inheritnce_class\c#_inheritnce_class\obj\Debug\c#_inheritnce_class.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\c#_inheritnce_class\c#_inheritnce_class\obj\Debug\c#_inheritnce_class.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\c#_inheritnce_class\c#_inheritnce_class\obj\Debug\c#_inheritnce_class.pdb

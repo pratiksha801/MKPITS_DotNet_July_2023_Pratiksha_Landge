@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\single_level_inheritance\single_level_inheritance\bin\Debug\single_level_inheritance.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\single_level_inheritance\single_level_inheritance\bin\Debug\single_level_inheritance.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\single_level_inheritance\single_level_inheritance\bin\Debug\single_level_inheritance.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\single_level_inheritance\single_level_inheritance\obj\Debug\single_level_inheritance.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\single_level_inheritance\single_level_inheritance\obj\Debug\single_level_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\single_level_inheritance\single_level_inheritance\obj\Debug\single_level_inheritance.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\single_level_inheritance\single_level_inheritance\obj\Debug\single_level_inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_2\inheritance_method_2\bin\Debug\inheritance_method_2.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_2\inheritance_method_2\bin\Debug\inheritance_method_2.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_2\inheritance_method_2\bin\Debug\inheritance_method_2.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_2\inheritance_method_2\obj\Debug\inheritance_method_2.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_2\inheritance_method_2\obj\Debug\inheritance_method_2.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_2\inheritance_method_2\obj\Debug\inheritance_method_2.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_2\inheritance_method_2\obj\Debug\inheritance_method_2.pdb

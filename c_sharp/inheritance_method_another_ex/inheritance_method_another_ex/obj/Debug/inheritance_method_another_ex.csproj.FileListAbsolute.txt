@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_another_ex\inheritance_method_another_ex\bin\Debug\inheritance_method_another_ex.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_another_ex\inheritance_method_another_ex\bin\Debug\inheritance_method_another_ex.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_another_ex\inheritance_method_another_ex\bin\Debug\inheritance_method_another_ex.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_another_ex\inheritance_method_another_ex\obj\Debug\inheritance_method_another_ex.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_another_ex\inheritance_method_another_ex\obj\Debug\inheritance_method_another_ex.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_another_ex\inheritance_method_another_ex\obj\Debug\inheritance_method_another_ex.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\inheritance_method_another_ex\inheritance_method_another_ex\obj\Debug\inheritance_method_another_ex.pdb

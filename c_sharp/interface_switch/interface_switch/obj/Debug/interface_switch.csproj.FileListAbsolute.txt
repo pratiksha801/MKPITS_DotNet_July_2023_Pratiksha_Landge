@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\interface_switch\interface_switch\bin\Debug\interface_switch.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\interface_switch\interface_switch\bin\Debug\interface_switch.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\interface_switch\interface_switch\bin\Debug\interface_switch.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\interface_switch\interface_switch\obj\Debug\interface_switch.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\interface_switch\interface_switch\obj\Debug\interface_switch.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\interface_switch\interface_switch\obj\Debug\interface_switch.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\interface_switch\interface_switch\obj\Debug\interface_switch.pdb

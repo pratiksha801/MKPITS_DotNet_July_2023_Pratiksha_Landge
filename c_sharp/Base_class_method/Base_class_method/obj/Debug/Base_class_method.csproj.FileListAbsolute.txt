@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\Base_class_method\Base_class_method\bin\Debug\Base_class_method.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\Base_class_method\Base_class_method\bin\Debug\Base_class_method.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Base_class_method\Base_class_method\bin\Debug\Base_class_method.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\Base_class_method\Base_class_method\obj\Debug\Base_class_method.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Base_class_method\Base_class_method\obj\Debug\Base_class_method.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Base_class_method\Base_class_method\obj\Debug\Base_class_method.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Base_class_method\Base_class_method\obj\Debug\Base_class_method.pdb

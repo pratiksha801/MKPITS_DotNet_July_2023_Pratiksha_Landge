@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: List, Configuration: Debug Any CPU ------
+1>  List -> C:\Users\prati\OneDrive\Desktop\c_sharp\List\List\bin\Debug\List.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 13:19 and took 00.243 seconds ==========

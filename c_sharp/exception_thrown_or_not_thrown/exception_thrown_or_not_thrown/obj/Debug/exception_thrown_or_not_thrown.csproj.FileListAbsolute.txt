@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\exception_thrown_or_not_thrown\exception_thrown_or_not_thrown\bin\Debug\exception_thrown_or_not_thrown.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\exception_thrown_or_not_thrown\exception_thrown_or_not_thrown\bin\Debug\exception_thrown_or_not_thrown.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\exception_thrown_or_not_thrown\exception_thrown_or_not_thrown\bin\Debug\exception_thrown_or_not_thrown.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\exception_thrown_or_not_thrown\exception_thrown_or_not_thrown\obj\Debug\exception_thrown_or_not_thrown.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\exception_thrown_or_not_thrown\exception_thrown_or_not_thrown\obj\Debug\exception_thrown_or_not_thrown.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\exception_thrown_or_not_thrown\exception_thrown_or_not_thrown\obj\Debug\exception_thrown_or_not_thrown.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\exception_thrown_or_not_thrown\exception_thrown_or_not_thrown\obj\Debug\exception_thrown_or_not_thrown.pdb

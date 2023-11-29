@@ -1,0 +1,13 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\bin\Debug\account_saving_current.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\bin\Debug\account_saving_current.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\bin\Debug\account_saving_current.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\bin\Debug\bank.dll
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\bin\Debug\bank.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\obj\Debug\account_saving_current.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\obj\Debug\account_saving_current.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\obj\Debug\account_saving_current.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\obj\Debug\account_saving_current.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\obj\Debug\account_saving_current.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\obj\Debug\account_saving_current.csproj.CopyComplete
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\obj\Debug\account_saving_current.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\account_saving_current\account_saving_current\obj\Debug\account_saving_current.pdb

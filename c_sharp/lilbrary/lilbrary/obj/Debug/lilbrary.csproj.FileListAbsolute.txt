@@ -1,0 +1,13 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\bin\Debug\lilbrary.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\bin\Debug\lilbrary.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\bin\Debug\lilbrary.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\bin\Debug\calculatelilbrary.dll
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\bin\Debug\calculatelilbrary.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\obj\Debug\lilbrary.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\obj\Debug\lilbrary.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\obj\Debug\lilbrary.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\obj\Debug\lilbrary.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\obj\Debug\lilbrary.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\obj\Debug\lilbrary.csproj.CopyComplete
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\obj\Debug\lilbrary.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\lilbrary\lilbrary\obj\Debug\lilbrary.pdb

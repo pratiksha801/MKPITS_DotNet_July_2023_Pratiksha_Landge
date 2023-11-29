@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\throw_keyword\throw_keyword\bin\Debug\throw_keyword.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\throw_keyword\throw_keyword\bin\Debug\throw_keyword.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\throw_keyword\throw_keyword\bin\Debug\throw_keyword.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\throw_keyword\throw_keyword\obj\Debug\throw_keyword.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\throw_keyword\throw_keyword\obj\Debug\throw_keyword.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\throw_keyword\throw_keyword\obj\Debug\throw_keyword.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\throw_keyword\throw_keyword\obj\Debug\throw_keyword.pdb

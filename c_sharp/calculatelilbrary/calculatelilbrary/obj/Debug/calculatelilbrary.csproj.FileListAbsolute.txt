@@ -1,0 +1,6 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\calculatelilbrary\calculatelilbrary\obj\Debug\calculatelilbrary.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\calculatelilbrary\calculatelilbrary\obj\Debug\calculatelilbrary.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\calculatelilbrary\calculatelilbrary\bin\Debug\calculatelilbrary.dll
+C:\Users\prati\OneDrive\Desktop\c_sharp\calculatelilbrary\calculatelilbrary\bin\Debug\calculatelilbrary.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\calculatelilbrary\calculatelilbrary\obj\Debug\calculatelilbrary.dll
+C:\Users\prati\OneDrive\Desktop\c_sharp\calculatelilbrary\calculatelilbrary\obj\Debug\calculatelilbrary.pdb

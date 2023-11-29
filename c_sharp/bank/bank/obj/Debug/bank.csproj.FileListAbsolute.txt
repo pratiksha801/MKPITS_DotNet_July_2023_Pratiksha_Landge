@@ -1,0 +1,6 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\bank\bank\bin\Debug\bank.dll
+C:\Users\prati\OneDrive\Desktop\c_sharp\bank\bank\bin\Debug\bank.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\bank\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\bank\bank\obj\Debug\bank.dll
+C:\Users\prati\OneDrive\Desktop\c_sharp\bank\bank\obj\Debug\bank.pdb

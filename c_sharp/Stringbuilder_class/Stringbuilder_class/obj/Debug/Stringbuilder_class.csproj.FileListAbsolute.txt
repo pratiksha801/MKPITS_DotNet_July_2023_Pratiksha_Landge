@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\Stringbuilder_class\Stringbuilder_class\bin\Debug\Stringbuilder_class.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\Stringbuilder_class\Stringbuilder_class\bin\Debug\Stringbuilder_class.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Stringbuilder_class\Stringbuilder_class\bin\Debug\Stringbuilder_class.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\Stringbuilder_class\Stringbuilder_class\obj\Debug\Stringbuilder_class.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Stringbuilder_class\Stringbuilder_class\obj\Debug\Stringbuilder_class.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Stringbuilder_class\Stringbuilder_class\obj\Debug\Stringbuilder_class.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Stringbuilder_class\Stringbuilder_class\obj\Debug\Stringbuilder_class.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "divide_by_zero_exception_class", "divide_by_zero_exception_class\divide_by_zero_exception_class.csproj", "{B5395BEB-7564-4262-9F54-1179BAD7AE90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5395BEB-7564-4262-9F54-1179BAD7AE90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5395BEB-7564-4262-9F54-1179BAD7AE90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5395BEB-7564-4262-9F54-1179BAD7AE90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5395BEB-7564-4262-9F54-1179BAD7AE90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5848EDA8-01EA-4053-9580-5E4E824E9695}
+	EndGlobalSection
+EndGlobal

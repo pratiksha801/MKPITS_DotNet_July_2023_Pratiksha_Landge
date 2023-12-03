@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_eligible_to_vote_or_not\ass_eligible_to_vote_or_not\bin\Debug\ass_eligible_to_vote_or_not.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_eligible_to_vote_or_not\ass_eligible_to_vote_or_not\bin\Debug\ass_eligible_to_vote_or_not.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_eligible_to_vote_or_not\ass_eligible_to_vote_or_not\bin\Debug\ass_eligible_to_vote_or_not.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_eligible_to_vote_or_not\ass_eligible_to_vote_or_not\obj\Debug\ass_eligible_to_vote_or_not.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_eligible_to_vote_or_not\ass_eligible_to_vote_or_not\obj\Debug\ass_eligible_to_vote_or_not.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_eligible_to_vote_or_not\ass_eligible_to_vote_or_not\obj\Debug\ass_eligible_to_vote_or_not.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_eligible_to_vote_or_not\ass_eligible_to_vote_or_not\obj\Debug\ass_eligible_to_vote_or_not.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_eligible_to_vote_or_not\ass_eligible_to_vote_or_not\obj\Debug\ass_eligible_to_vote_or_not.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_eligible_to_vote_or_not\ass_eligible_to_vote_or_not\obj\Debug\ass_eligible_to_vote_or_not.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_eligible_to_vote_or_not\ass_eligible_to_vote_or_not\obj\Debug\ass_eligible_to_vote_or_not.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\run_the_application_and_type\run_the_application_and_type\bin\Debug\run_the_application_and_type.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\run_the_application_and_type\run_the_application_and_type\bin\Debug\run_the_application_and_type.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\run_the_application_and_type\run_the_application_and_type\bin\Debug\run_the_application_and_type.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\run_the_application_and_type\run_the_application_and_type\obj\Debug\run_the_application_and_type.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\run_the_application_and_type\run_the_application_and_type\obj\Debug\run_the_application_and_type.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\run_the_application_and_type\run_the_application_and_type\obj\Debug\run_the_application_and_type.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\run_the_application_and_type\run_the_application_and_type\obj\Debug\run_the_application_and_type.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\run_the_application_and_type\run_the_application_and_type\obj\Debug\run_the_application_and_type.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\run_the_application_and_type\run_the_application_and_type\obj\Debug\run_the_application_and_type.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\run_the_application_and_type\run_the_application_and_type\obj\Debug\run_the_application_and_type.pdb

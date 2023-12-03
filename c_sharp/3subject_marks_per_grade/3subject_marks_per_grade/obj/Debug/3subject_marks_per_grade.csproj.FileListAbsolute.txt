@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_marks_per_grade\3subject_marks_per_grade\bin\Debug\3subject_marks_per_grade.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_marks_per_grade\3subject_marks_per_grade\bin\Debug\3subject_marks_per_grade.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_marks_per_grade\3subject_marks_per_grade\bin\Debug\3subject_marks_per_grade.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_marks_per_grade\3subject_marks_per_grade\obj\Debug\3subject_marks_per_grade.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_marks_per_grade\3subject_marks_per_grade\obj\Debug\_3subject_marks_per_grade.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_marks_per_grade\3subject_marks_per_grade\obj\Debug\_3subject_marks_per_grade.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_marks_per_grade\3subject_marks_per_grade\obj\Debug\3subject_marks_per_grade.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_marks_per_grade\3subject_marks_per_grade\obj\Debug\3subject_marks_per_grade.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_marks_per_grade\3subject_marks_per_grade\obj\Debug\3subject_marks_per_grade.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\3subject_marks_per_grade\3subject_marks_per_grade\obj\Debug\3subject_marks_per_grade.pdb

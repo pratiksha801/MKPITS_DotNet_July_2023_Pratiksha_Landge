@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\display_greater_no\display_greater_no\bin\Debug\display_greater_no.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\display_greater_no\display_greater_no\bin\Debug\display_greater_no.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\display_greater_no\display_greater_no\bin\Debug\display_greater_no.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\display_greater_no\display_greater_no\obj\Debug\display_greater_no.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\display_greater_no\display_greater_no\obj\Debug\display_greater_no.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\display_greater_no\display_greater_no\obj\Debug\display_greater_no.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\display_greater_no\display_greater_no\obj\Debug\display_greater_no.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\display_greater_no\display_greater_no\obj\Debug\display_greater_no.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\display_greater_no\display_greater_no\obj\Debug\display_greater_no.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\display_greater_no\display_greater_no\obj\Debug\display_greater_no.pdb

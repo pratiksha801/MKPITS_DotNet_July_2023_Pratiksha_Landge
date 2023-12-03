@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\minor_youngor_or_old\minor_youngor_or_old\bin\Debug\minor_youngor_or_old.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\minor_youngor_or_old\minor_youngor_or_old\bin\Debug\minor_youngor_or_old.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\minor_youngor_or_old\minor_youngor_or_old\bin\Debug\minor_youngor_or_old.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\minor_youngor_or_old\minor_youngor_or_old\obj\Debug\minor_youngor_or_old.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\minor_youngor_or_old\minor_youngor_or_old\obj\Debug\minor_youngor_or_old.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\minor_youngor_or_old\minor_youngor_or_old\obj\Debug\minor_youngor_or_old.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\minor_youngor_or_old\minor_youngor_or_old\obj\Debug\minor_youngor_or_old.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\minor_youngor_or_old\minor_youngor_or_old\obj\Debug\minor_youngor_or_old.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\minor_youngor_or_old\minor_youngor_or_old\obj\Debug\minor_youngor_or_old.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\minor_youngor_or_old\minor_youngor_or_old\obj\Debug\minor_youngor_or_old.pdb

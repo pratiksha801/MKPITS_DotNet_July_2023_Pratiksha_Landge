@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_3no_display_the_greatest\ass_3no_display_the_greatest\bin\Debug\ass_3no_display_the_greatest.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_3no_display_the_greatest\ass_3no_display_the_greatest\bin\Debug\ass_3no_display_the_greatest.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_3no_display_the_greatest\ass_3no_display_the_greatest\bin\Debug\ass_3no_display_the_greatest.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_3no_display_the_greatest\ass_3no_display_the_greatest\obj\Debug\ass_3no_display_the_greatest.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_3no_display_the_greatest\ass_3no_display_the_greatest\obj\Debug\ass_3no_display_the_greatest.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_3no_display_the_greatest\ass_3no_display_the_greatest\obj\Debug\ass_3no_display_the_greatest.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_3no_display_the_greatest\ass_3no_display_the_greatest\obj\Debug\ass_3no_display_the_greatest.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_3no_display_the_greatest\ass_3no_display_the_greatest\obj\Debug\ass_3no_display_the_greatest.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_3no_display_the_greatest\ass_3no_display_the_greatest\obj\Debug\ass_3no_display_the_greatest.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\ass_3no_display_the_greatest\ass_3no_display_the_greatest\obj\Debug\ass_3no_display_the_greatest.pdb

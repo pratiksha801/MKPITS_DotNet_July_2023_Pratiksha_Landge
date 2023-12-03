@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "add_substract_multiply_windows_form", "add_substract_multiply_windows_form\add_substract_multiply_windows_form.csproj", "{5D0944E4-AB75-4055-9F31-C0E529C4B0F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0944E4-AB75-4055-9F31-C0E529C4B0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0944E4-AB75-4055-9F31-C0E529C4B0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0944E4-AB75-4055-9F31-C0E529C4B0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0944E4-AB75-4055-9F31-C0E529C4B0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C09C46D-9B1F-4FC4-B501-CC73D0B9F755}
+	EndGlobalSection
+EndGlobal

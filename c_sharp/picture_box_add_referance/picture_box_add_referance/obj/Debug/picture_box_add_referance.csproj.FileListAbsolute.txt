@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\picture_box_add_referance\picture_box_add_referance\bin\Debug\picture_box_add_referance.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\picture_box_add_referance\picture_box_add_referance\bin\Debug\picture_box_add_referance.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\picture_box_add_referance\picture_box_add_referance\bin\Debug\picture_box_add_referance.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\picture_box_add_referance\picture_box_add_referance\obj\Debug\picture_box_add_referance.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\picture_box_add_referance\picture_box_add_referance\obj\Debug\picture_box_add_referance.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\picture_box_add_referance\picture_box_add_referance\obj\Debug\picture_box_add_referance.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\picture_box_add_referance\picture_box_add_referance\obj\Debug\picture_box_add_referance.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\picture_box_add_referance\picture_box_add_referance\obj\Debug\picture_box_add_referance.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\picture_box_add_referance\picture_box_add_referance\obj\Debug\picture_box_add_referance.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\picture_box_add_referance\picture_box_add_referance\obj\Debug\picture_box_add_referance.pdb

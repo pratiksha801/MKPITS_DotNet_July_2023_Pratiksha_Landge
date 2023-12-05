@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\masked_textbox_properties\masked_textbox_properties\bin\Debug\masked_textbox_properties.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\masked_textbox_properties\masked_textbox_properties\bin\Debug\masked_textbox_properties.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\masked_textbox_properties\masked_textbox_properties\bin\Debug\masked_textbox_properties.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\masked_textbox_properties\masked_textbox_properties\obj\Debug\masked_textbox_properties.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\masked_textbox_properties\masked_textbox_properties\obj\Debug\masked_textbox_properties.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\masked_textbox_properties\masked_textbox_properties\obj\Debug\masked_textbox_properties.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\masked_textbox_properties\masked_textbox_properties\obj\Debug\masked_textbox_properties.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\masked_textbox_properties\masked_textbox_properties\obj\Debug\masked_textbox_properties.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\masked_textbox_properties\masked_textbox_properties\obj\Debug\masked_textbox_properties.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\masked_textbox_properties\masked_textbox_properties\obj\Debug\masked_textbox_properties.pdb

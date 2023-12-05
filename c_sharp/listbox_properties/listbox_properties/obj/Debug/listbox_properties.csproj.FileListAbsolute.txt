@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\listbox_properties\listbox_properties\bin\Debug\listbox_properties.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\listbox_properties\listbox_properties\bin\Debug\listbox_properties.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\listbox_properties\listbox_properties\bin\Debug\listbox_properties.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\listbox_properties\listbox_properties\obj\Debug\listbox_properties.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\listbox_properties\listbox_properties\obj\Debug\listbox_properties.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\listbox_properties\listbox_properties\obj\Debug\listbox_properties.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\listbox_properties\listbox_properties\obj\Debug\listbox_properties.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\listbox_properties\listbox_properties\obj\Debug\listbox_properties.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\listbox_properties\listbox_properties\obj\Debug\listbox_properties.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\listbox_properties\listbox_properties\obj\Debug\listbox_properties.pdb

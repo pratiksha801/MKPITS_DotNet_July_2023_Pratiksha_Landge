@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\statusstrip_control_form\statusstrip_control_form\bin\Debug\statusstrip_control_form.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\statusstrip_control_form\statusstrip_control_form\bin\Debug\statusstrip_control_form.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\statusstrip_control_form\statusstrip_control_form\bin\Debug\statusstrip_control_form.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\statusstrip_control_form\statusstrip_control_form\obj\Debug\statusstrip_control_form.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\statusstrip_control_form\statusstrip_control_form\obj\Debug\statusstrip_control_form.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\statusstrip_control_form\statusstrip_control_form\obj\Debug\statusstrip_control_form.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\statusstrip_control_form\statusstrip_control_form\obj\Debug\statusstrip_control_form.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\statusstrip_control_form\statusstrip_control_form\obj\Debug\statusstrip_control_form.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\statusstrip_control_form\statusstrip_control_form\obj\Debug\statusstrip_control_form.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\statusstrip_control_form\statusstrip_control_form\obj\Debug\statusstrip_control_form.pdb

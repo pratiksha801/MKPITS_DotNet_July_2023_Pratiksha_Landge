@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\edit_color_menustrip_control\edit_color_menustrip_control\bin\Debug\edit_color_menustrip_control.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\edit_color_menustrip_control\edit_color_menustrip_control\bin\Debug\edit_color_menustrip_control.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\edit_color_menustrip_control\edit_color_menustrip_control\bin\Debug\edit_color_menustrip_control.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\edit_color_menustrip_control\edit_color_menustrip_control\obj\Debug\edit_color_menustrip_control.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\edit_color_menustrip_control\edit_color_menustrip_control\obj\Debug\edit_color_menustrip_control.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\edit_color_menustrip_control\edit_color_menustrip_control\obj\Debug\edit_color_menustrip_control.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\edit_color_menustrip_control\edit_color_menustrip_control\obj\Debug\edit_color_menustrip_control.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\edit_color_menustrip_control\edit_color_menustrip_control\obj\Debug\edit_color_menustrip_control.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\edit_color_menustrip_control\edit_color_menustrip_control\obj\Debug\edit_color_menustrip_control.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\edit_color_menustrip_control\edit_color_menustrip_control\obj\Debug\edit_color_menustrip_control.pdb

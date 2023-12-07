@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\gender_ course_controls\gender_ course_controls\bin\Debug\gender_ course_controls.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\gender_ course_controls\gender_ course_controls\bin\Debug\gender_ course_controls.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\gender_ course_controls\gender_ course_controls\bin\Debug\gender_ course_controls.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\gender_ course_controls\gender_ course_controls\obj\Debug\gender_ course_controls.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\gender_ course_controls\gender_ course_controls\obj\Debug\gender__course_controls.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\gender_ course_controls\gender_ course_controls\obj\Debug\gender__course_controls.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\gender_ course_controls\gender_ course_controls\obj\Debug\gender_ course_controls.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\gender_ course_controls\gender_ course_controls\obj\Debug\gender_ course_controls.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\gender_ course_controls\gender_ course_controls\obj\Debug\gender_ course_controls.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\gender_ course_controls\gender_ course_controls\obj\Debug\gender_ course_controls.pdb

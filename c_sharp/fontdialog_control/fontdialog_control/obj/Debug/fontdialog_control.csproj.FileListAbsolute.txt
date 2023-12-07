@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\fontdialog_control\fontdialog_control\bin\Debug\fontdialog_control.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\fontdialog_control\fontdialog_control\bin\Debug\fontdialog_control.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\fontdialog_control\fontdialog_control\bin\Debug\fontdialog_control.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\fontdialog_control\fontdialog_control\obj\Debug\fontdialog_control.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\fontdialog_control\fontdialog_control\obj\Debug\fontdialog_control.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\fontdialog_control\fontdialog_control\obj\Debug\fontdialog_control.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\fontdialog_control\fontdialog_control\obj\Debug\fontdialog_control.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\fontdialog_control\fontdialog_control\obj\Debug\fontdialog_control.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\fontdialog_control\fontdialog_control\obj\Debug\fontdialog_control.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\fontdialog_control\fontdialog_control\obj\Debug\fontdialog_control.pdb

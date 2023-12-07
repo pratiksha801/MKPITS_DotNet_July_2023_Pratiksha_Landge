@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\design_menu_copy_cut_paste\design_menu_copy_cut_paste\bin\Debug\design_menu_copy_cut_paste.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\design_menu_copy_cut_paste\design_menu_copy_cut_paste\bin\Debug\design_menu_copy_cut_paste.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\design_menu_copy_cut_paste\design_menu_copy_cut_paste\bin\Debug\design_menu_copy_cut_paste.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\design_menu_copy_cut_paste\design_menu_copy_cut_paste\obj\Debug\design_menu_copy_cut_paste.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\design_menu_copy_cut_paste\design_menu_copy_cut_paste\obj\Debug\design_menu_copy_cut_paste.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\design_menu_copy_cut_paste\design_menu_copy_cut_paste\obj\Debug\design_menu_copy_cut_paste.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\design_menu_copy_cut_paste\design_menu_copy_cut_paste\obj\Debug\design_menu_copy_cut_paste.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\design_menu_copy_cut_paste\design_menu_copy_cut_paste\obj\Debug\design_menu_copy_cut_paste.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\design_menu_copy_cut_paste\design_menu_copy_cut_paste\obj\Debug\design_menu_copy_cut_paste.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\design_menu_copy_cut_paste\design_menu_copy_cut_paste\obj\Debug\design_menu_copy_cut_paste.pdb

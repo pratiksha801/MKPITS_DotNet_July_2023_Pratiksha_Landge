@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\tooltiptext_property\tooltiptext_property\bin\Debug\tooltiptext_property.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\tooltiptext_property\tooltiptext_property\bin\Debug\tooltiptext_property.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\tooltiptext_property\tooltiptext_property\bin\Debug\tooltiptext_property.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\tooltiptext_property\tooltiptext_property\obj\Debug\tooltiptext_property.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\tooltiptext_property\tooltiptext_property\obj\Debug\tooltiptext_property.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\tooltiptext_property\tooltiptext_property\obj\Debug\tooltiptext_property.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\tooltiptext_property\tooltiptext_property\obj\Debug\tooltiptext_property.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\tooltiptext_property\tooltiptext_property\obj\Debug\tooltiptext_property.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\tooltiptext_property\tooltiptext_property\obj\Debug\tooltiptext_property.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\tooltiptext_property\tooltiptext_property\obj\Debug\tooltiptext_property.pdb

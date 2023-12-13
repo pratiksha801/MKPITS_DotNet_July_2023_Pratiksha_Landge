@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\Bank_multiple_solution_\Bank_multiple_solution_\bin\Debug\Bank_multiple_solution_.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\Bank_multiple_solution_\Bank_multiple_solution_\bin\Debug\Bank_multiple_solution_.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Bank_multiple_solution_\Bank_multiple_solution_\bin\Debug\Bank_multiple_solution_.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\Bank_multiple_solution_\Bank_multiple_solution_\obj\Debug\Bank_multiple_solution_.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Bank_multiple_solution_\Bank_multiple_solution_\obj\Debug\Bank_multiple_solution_.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Bank_multiple_solution_\Bank_multiple_solution_\obj\Debug\Bank_multiple_solution_.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Bank_multiple_solution_\Bank_multiple_solution_\obj\Debug\Bank_multiple_solution_.pdb

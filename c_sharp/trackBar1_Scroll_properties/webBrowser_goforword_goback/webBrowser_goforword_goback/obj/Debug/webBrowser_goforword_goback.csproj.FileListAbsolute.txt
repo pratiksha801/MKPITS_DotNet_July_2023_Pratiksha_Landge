@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\webBrowser_goforword_goback\webBrowser_goforword_goback\bin\Debug\webBrowser_goforword_goback.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\webBrowser_goforword_goback\webBrowser_goforword_goback\bin\Debug\webBrowser_goforword_goback.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\webBrowser_goforword_goback\webBrowser_goforword_goback\bin\Debug\webBrowser_goforword_goback.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\webBrowser_goforword_goback\webBrowser_goforword_goback\obj\Debug\webBrowser_goforword_goback.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\webBrowser_goforword_goback\webBrowser_goforword_goback\obj\Debug\webBrowser_goforword_goback.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\webBrowser_goforword_goback\webBrowser_goforword_goback\obj\Debug\webBrowser_goforword_goback.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\webBrowser_goforword_goback\webBrowser_goforword_goback\obj\Debug\webBrowser_goforword_goback.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\webBrowser_goforword_goback\webBrowser_goforword_goback\obj\Debug\webBrowser_goforword_goback.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\webBrowser_goforword_goback\webBrowser_goforword_goback\obj\Debug\webBrowser_goforword_goback.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\webBrowser_goforword_goback\webBrowser_goforword_goback\obj\Debug\webBrowser_goforword_goback.pdb

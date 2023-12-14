@@ -13,3 +13,4 @@ insert into customer values(10,'lucky','sadhbhavna nagar')
 
 select * from customer
 
+

@@ -1,0 +1,1 @@
+create table customers(customer_id int,customer_name varchar(50),password varchar(50))

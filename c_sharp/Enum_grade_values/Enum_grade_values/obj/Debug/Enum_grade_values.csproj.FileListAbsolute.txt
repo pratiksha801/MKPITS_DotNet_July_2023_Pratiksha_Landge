@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_grade_values\Enum_grade_values\bin\Debug\Enum_grade_values.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_grade_values\Enum_grade_values\bin\Debug\Enum_grade_values.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_grade_values\Enum_grade_values\bin\Debug\Enum_grade_values.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_grade_values\Enum_grade_values\obj\Debug\Enum_grade_values.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_grade_values\Enum_grade_values\obj\Debug\Enum_grade_values.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_grade_values\Enum_grade_values\obj\Debug\Enum_grade_values.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_grade_values\Enum_grade_values\obj\Debug\Enum_grade_values.pdb

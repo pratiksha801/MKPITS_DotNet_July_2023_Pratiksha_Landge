@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\TableCity_sql\TableCity_sql\bin\Debug\TableCity_sql.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\TableCity_sql\TableCity_sql\bin\Debug\TableCity_sql.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\TableCity_sql\TableCity_sql\bin\Debug\TableCity_sql.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\TableCity_sql\TableCity_sql\obj\Debug\TableCity_sql.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\TableCity_sql\TableCity_sql\obj\Debug\TableCity_sql.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\TableCity_sql\TableCity_sql\obj\Debug\TableCity_sql.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\TableCity_sql\TableCity_sql\obj\Debug\TableCity_sql.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\TableCity_sql\TableCity_sql\obj\Debug\TableCity_sql.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\TableCity_sql\TableCity_sql\obj\Debug\TableCity_sql.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\TableCity_sql\TableCity_sql\obj\Debug\TableCity_sql.pdb

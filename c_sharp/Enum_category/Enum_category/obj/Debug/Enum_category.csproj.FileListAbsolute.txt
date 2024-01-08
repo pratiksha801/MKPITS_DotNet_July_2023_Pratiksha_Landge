@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_category\Enum_category\bin\Debug\Enum_category.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_category\Enum_category\bin\Debug\Enum_category.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_category\Enum_category\bin\Debug\Enum_category.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_category\Enum_category\obj\Debug\Enum_category.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_category\Enum_category\obj\Debug\Enum_category.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_category\Enum_category\obj\Debug\Enum_category.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enum_category\Enum_category\obj\Debug\Enum_category.pdb

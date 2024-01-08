@@ -1,0 +1,7 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enumerator\Enumerator\bin\Debug\Enumerator.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enumerator\Enumerator\bin\Debug\Enumerator.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enumerator\Enumerator\bin\Debug\Enumerator.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enumerator\Enumerator\obj\Debug\Enumerator.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enumerator\Enumerator\obj\Debug\Enumerator.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enumerator\Enumerator\obj\Debug\Enumerator.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\Enumerator\Enumerator\obj\Debug\Enumerator.pdb

@@ -1,0 +1,10 @@
+C:\Users\prati\OneDrive\Desktop\c_sharp\product_store\product_store\bin\Debug\product_store.exe.config
+C:\Users\prati\OneDrive\Desktop\c_sharp\product_store\product_store\bin\Debug\product_store.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\product_store\product_store\bin\Debug\product_store.pdb
+C:\Users\prati\OneDrive\Desktop\c_sharp\product_store\product_store\obj\Debug\product_store.csproj.AssemblyReference.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\product_store\product_store\obj\Debug\product_store.Form1.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\product_store\product_store\obj\Debug\product_store.Properties.Resources.resources
+C:\Users\prati\OneDrive\Desktop\c_sharp\product_store\product_store\obj\Debug\product_store.csproj.GenerateResource.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\product_store\product_store\obj\Debug\product_store.csproj.CoreCompileInputs.cache
+C:\Users\prati\OneDrive\Desktop\c_sharp\product_store\product_store\obj\Debug\product_store.exe
+C:\Users\prati\OneDrive\Desktop\c_sharp\product_store\product_store\obj\Debug\product_store.pdb
